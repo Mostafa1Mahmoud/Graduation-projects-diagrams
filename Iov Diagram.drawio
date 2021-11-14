@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T18:02:56.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Wij0YwGPleMUzehp2vO_" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T19:25:07.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BipfcoUnveTnq01rBkkN" version="15.7.3" type="github">
   <diagram id="j9pDFIUfekGrRBhPWSE1" name="Page-1">
-    <mxGraphModel dx="1123" dy="2375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="2310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,10 @@
           <mxGeometry y="26" width="120" height="254" as="geometry" />
         </mxCell>
         <mxCell id="_rcZtCHidX51ZleryvUr-45" value="Initialization Phase" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-1200" width="360" height="320" as="geometry" />
+          <mxGeometry x="1000" y="-1250" width="360" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_rcZtCHidX51ZleryvUr-48" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;The TA establishes the environment for the next phases of the scheme by producing different public parameters:&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;step 1: the TA generate the elliptic curve E and sets it&#39;s public parameters.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;step2: The TA calculates it&#39;s public key and publish it.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;step3: The TA defines a unidirectional function Hf(), which is used to check the integrity and the parameters are published publicaly.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_rcZtCHidX51ZleryvUr-45">
+          <mxGeometry x="10" y="30" width="340" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
