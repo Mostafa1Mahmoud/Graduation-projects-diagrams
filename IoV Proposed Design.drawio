@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T17:26:10.276Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="RcybT-m1Anfp4MXRFVPT" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T17:34:30.564Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VF-4lCrUs-B13jZ7Ji1N" version="15.8.2" type="github">
   <diagram id="Pc18oPqg_DHJBtxWHFg2" name="Page-1">
     <mxGraphModel dx="868" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,12 +287,6 @@
             <mxPoint x="270" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2-x-zt7PfK26INY3TQk-67" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="q2-x-zt7PfK26INY3TQk-62" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="160" as="sourcePoint" />
-            <mxPoint x="420" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q2-x-zt7PfK26INY3TQk-68" value="Real Time Services Process" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="920" width="520" height="360" as="geometry" />
         </mxCell>
@@ -312,12 +306,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="320" as="sourcePoint" />
             <mxPoint x="270" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q2-x-zt7PfK26INY3TQk-73" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="q2-x-zt7PfK26INY3TQk-68" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="160" as="sourcePoint" />
-            <mxPoint x="420" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VW_lQ31s1oBFX8AfDXqv-36" value="nr (.) SK = rn (.) N (.) PK&lt;br&gt;&lt;br&gt;rn . N = R&lt;br&gt;&lt;br&gt;nr (.) SK = R (.) PK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
