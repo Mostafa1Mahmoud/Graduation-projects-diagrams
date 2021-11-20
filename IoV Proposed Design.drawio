@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T17:34:30.564Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VF-4lCrUs-B13jZ7Ji1N" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-20T18:33:56.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="z-fdXuWQAugH46jvbiQS" version="15.8.2" type="github">
   <diagram id="Pc18oPqg_DHJBtxWHFg2" name="Page-1">
-    <mxGraphModel dx="868" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
         <mxCell id="q2-x-zt7PfK26INY3TQk-37" value="Set Public Parameters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="q2-x-zt7PfK26INY3TQk-35" vertex="1">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="q2-x-zt7PfK26INY3TQk-38" value="IoV Node&lt;br&gt;(Edge Device)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="q2-x-zt7PfK26INY3TQk-38" value="IoT Node&lt;br&gt;(Edge Device)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q2-x-zt7PfK26INY3TQk-39" value="Date Gathering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -344,7 +344,7 @@
         <mxCell id="VW_lQ31s1oBFX8AfDXqv-51" value="Certification Update Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1740" y="1050" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U_1LsQzGfzGN_IzziaqL-1" value="Hf(rn1 (.) SK1 || RID1) -&amp;gt; RSU&lt;br&gt;&lt;br&gt;Hf(rn2 (.) SK2 || RID2) -&amp;gt; RSU&lt;br&gt;&lt;br&gt;&amp;nbsp;session key Hf( R1 || R2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U_1LsQzGfzGN_IzziaqL-1" value="Hf(rn1 (.) SK1 || RID1) -&amp;gt; RSU&lt;br&gt;&lt;br&gt;Hf(rn2 (.) SK2 || RID2) -&amp;gt; RSU&lt;br&gt;&lt;br&gt;&amp;nbsp;session key Hf( R1 || R2)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="-520" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
