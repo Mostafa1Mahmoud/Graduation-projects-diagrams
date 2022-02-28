@@ -1,23 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T17:32:20.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="g9q7VVVxs-kgvfLeaUkA" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T17:32:35.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="52_Jzozex9Dh2yL_SvKl" version="16.6.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="971" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RBewx2gTzVDehovNwCif-2" value="Road Side Unit (RSU)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="RBewx2gTzVDehovNwCif-2" value="Road Side Unit (RSU)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="10" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RBewx2gTzVDehovNwCif-3" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="RBewx2gTzVDehovNwCif-3" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RBewx2gTzVDehovNwCif-4" value="On Board Unit(OBU)/ Vehicle Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RBewx2gTzVDehovNwCif-4" value="On Board Unit(OBU)/ Vehicle Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBewx2gTzVDehovNwCif-5" value="Router" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-1" value="Base Broker&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="10" width="100" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="RBewx2gTzVDehovNwCif-6" value="BaseBroker" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="100" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-2" value="Router" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="10" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RBewx2gTzVDehovNwCif-7" value="Router" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="10" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-3" value="Fog Node&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="10" width="100" height="300" as="geometry" />
