@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T17:35:13.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KWdh1g48Yd5aS3UDAG7Z" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T17:14:22.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pS1VcxF7TsemJJ0aQkTw" version="16.6.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="599" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RBewx2gTzVDehovNwCif-2" value="Road Side Unit (RSU)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="10" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="RBewx2gTzVDehovNwCif-3" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="RBewx2gTzVDehovNwCif-3" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="10" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RBewx2gTzVDehovNwCif-4" value="On Board Unit(OBU)/ Vehicle Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RBewx2gTzVDehovNwCif-4" value="On Board Unit(OBU)/ Vehicle Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-1" value="Base Broker&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="10" width="100" height="300" as="geometry" />
+        <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-3" value="Fog Node&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="10" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-2" value="Router" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="10" width="100" height="300" as="geometry" />
+        <mxCell id="KYvYnaWVsjCM7yM75yu5-8" value="&lt;span&gt;Types of Messages:&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;1 - Registration Message.&lt;/span&gt;&lt;br&gt;&lt;span&gt;2 - Authentication Message.&lt;/span&gt;&lt;br&gt;&lt;span&gt;3 - V2V Message.&lt;/span&gt;&lt;br&gt;&lt;span&gt;4 - V2I(Service) Message.&lt;/span&gt;&lt;br&gt;&lt;span&gt;5 - V2X Message.&lt;br&gt;&lt;br&gt;&lt;/span&gt;Abstract Message:&lt;br&gt;&lt;br&gt;- Any Message should have Time Stamp (ST), The payload Should be encrypted and Hashed.&lt;br&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="260" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Kf4kQ-f4R8IaYnsOuDyY-3" value="Fog Node&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="10" width="100" height="300" as="geometry" />
+        <mxCell id="KYvYnaWVsjCM7yM75yu5-14" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;- Abstract (Vehicle Side PoV and System side PoV)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;- Signature of Vehicle (System side PoV&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;)&lt;br&gt;&lt;/span&gt;- Parameters created by system {FID, RID, SK, PK}&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;(System side PoV&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Result :&lt;br&gt;The System and The Vehicle has the certificate of the vehicle.&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="310" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="RBewx2gTzVDehovNwCif-8" value="Router" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="10" width="100" height="300" as="geometry" />
+        <mxCell id="KYvYnaWVsjCM7yM75yu5-15" value="Registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvYnaWVsjCM7yM75yu5-16" value="&amp;nbsp;-&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&amp;nbsp;Abstract (Vehicle Side PoV and System side PoV)&lt;br&gt;&lt;br&gt;(Vehicle point of view)&lt;br&gt;&amp;nbsp;- Signature, Hash(Signature + Random Number (r1)*SK(OBU), RID)&lt;br&gt;&lt;br&gt;(System point of view)&lt;br&gt;- Random Number (r2)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;*SK(System)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;br&gt;&lt;br&gt;Result:&lt;br&gt;session key = (r1*SK(OBU)+r2*SK(System)+Certification)&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="390" width="350" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="KYvYnaWVsjCM7yM75yu5-17" value="Authentication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="360" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
