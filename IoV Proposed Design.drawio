@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T18:58:10.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="61-IpAZvPuVNXfBlcBMP" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T00:06:43.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kbtQGHifmHAgnxreKniY" version="16.6.5" type="github">
   <diagram id="Pc18oPqg_DHJBtxWHFg2" name="Page-1">
-    <mxGraphModel dx="1085" dy="1363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,6 +328,18 @@
         </mxCell>
         <mxCell id="U_1LsQzGfzGN_IzziaqL-1" value="Hf(rn1 (.) SK1 || RID1) -&amp;gt; RSU&lt;br&gt;&lt;br&gt;Hf(rn2 (.) SK2 || RID2) -&amp;gt; RSU&lt;br&gt;&lt;br&gt;&amp;nbsp;session key Hf( R1 || R2)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="-520" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TkJlvrmUX1vC2DdE3U8x-1" value="Generate Random Number Rn1 and use SKv to generate a token Authentication Token then send the Token and the signature and RID Encrypted Using the PKsys and Hashed using sha512 for hash matching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="620" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkJlvrmUX1vC2DdE3U8x-2" value="System apply the constraints and then generate Rn2 and use SKsys to generate the second part of the Authentication Token then add the certification of the vehicle to the authentication token then drive the Session key (symmetric key) for Reducing the computation over head and communication overhead.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="620" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkJlvrmUX1vC2DdE3U8x-3" value="The&amp;nbsp; system send back the Second part of the Authentication token to the vehicle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="740" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TkJlvrmUX1vC2DdE3U8x-4" value="The vehicle receives the Token and generate the session key to use it in future communications&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="730" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
