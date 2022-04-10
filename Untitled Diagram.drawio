@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T12:11:08.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="bgo9ZxUBM-dB0IAuMtBm" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T12:21:33.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="FSQ6VbT2PfSojoKE4nsO" version="17.4.2" type="github">
   <diagram id="9EqGme9XQ8Pk4LfK-jfx" name="Page-1">
-    <mxGraphModel dx="2131" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2410" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,14 +24,14 @@
         </mxCell>
         <UserObject label="" lucidchartObjectId="CdP9xf9X6418" id="pPeF-HTOgFZXbcfXd0PG-7">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fillColor=#000000;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="1" vertex="1">
-            <mxGeometry x="450" y="-45" width="30" height="30" as="geometry" />
+            <mxGeometry x="470" y="-30" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-8" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Create consensus request&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="398" y="150" width="135" height="75" as="geometry" />
+          <mxGeometry x="417.5" y="160" width="135" height="75" as="geometry" />
         </mxCell>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-9" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Add block to consensus request&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="398" y="285" width="135" height="75" as="geometry" />
+          <mxGeometry x="417.5" y="290" width="135" height="75" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="jgP9Arb4AGy4" id="pPeF-HTOgFZXbcfXd0PG-10">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.005;exitPerimeter=0;entryX=0.5;entryY=-0.006;entryPerimeter=0;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-9" target="pPeF-HTOgFZXbcfXd0PG-11" edge="1">
@@ -41,10 +41,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-11" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Send request to base broker&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="398" y="413" width="135" height="68" as="geometry" />
+          <mxGeometry x="417.5" y="413" width="135" height="68" as="geometry" />
         </mxCell>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-12" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Process block &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="405" y="38" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="PmP9a8LX6a7B" id="pPeF-HTOgFZXbcfXd0PG-13">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=0.5;entryY=-0.006;entryPerimeter=0;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-7" target="pPeF-HTOgFZXbcfXd0PG-12" edge="1">
@@ -68,7 +68,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-16" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Recieve request from fog node&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="630" y="413" width="150" height="68" as="geometry" />
+          <mxGeometry x="655" y="413" width="150" height="68" as="geometry" />
         </mxCell>
         <UserObject label="&lt;ul style=&quot;margin: 0px; padding-left: 10px;list-style-position: inside; list-style-type:disc&quot;&gt;&lt;li style=&quot;text-align:left;color:#3a414a;font-size:16.7px;&quot;&gt;&lt;span style=&quot;margin-left: 0px;margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Add different number for every block ( local number)  then  map this number to the number given by the orderer ( universal number&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;&#xa;- Processing type is different according to requetst type .&#xa;- Regestiration: &#xa;+ implement actions of security protcol during registration&#xa;&#xa;+ first fog node will create certification and parametner &#xa;&#xa;+ the other fog nodes will store these reselts but they will check the time stamp and hash matching&#xa;- Authentication : will be implemented with the same method  &#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="moP9F8FH.Dze" id="pPeF-HTOgFZXbcfXd0PG-17">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" parent="1" vertex="1">
@@ -97,7 +97,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-21" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Add request to consensus topic queue&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="630" y="548" width="150" height="76" as="geometry" />
+          <mxGeometry x="655" y="546.5" width="150" height="76" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="iJP9lG1LMExx" id="pPeF-HTOgFZXbcfXd0PG-22">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.006;exitPerimeter=0;entryX=0.5;entryY=-0.005;entryPerimeter=0;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-16" target="pPeF-HTOgFZXbcfXd0PG-21" edge="1">
@@ -107,7 +107,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-23" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Sends the request to Ordrer&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="630" y="690" width="150" height="76" as="geometry" />
+          <mxGeometry x="655" y="690" width="150" height="76" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="1JP9.PYqI3OY" id="pPeF-HTOgFZXbcfXd0PG-24">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.005;exitPerimeter=0;entryX=0.5;entryY=-0.005;entryPerimeter=0;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-21" target="pPeF-HTOgFZXbcfXd0PG-23" edge="1">
@@ -156,7 +156,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-32" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Resieves a response from the ordrer&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="630" y="822" width="150" height="75" as="geometry" />
+          <mxGeometry x="655" y="821.5" width="150" height="75" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="mxQ99RnzjHwp" id="pPeF-HTOgFZXbcfXd0PG-33">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.002;exitY=0.5;exitPerimeter=0;entryX=1.003;entryY=0.5;entryPerimeter=0;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-30" target="pPeF-HTOgFZXbcfXd0PG-32" edge="1">
@@ -166,7 +166,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="pPeF-HTOgFZXbcfXd0PG-34" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;Broadcasts the request to other base brokers and other fog nodes&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" parent="1" vertex="1">
-          <mxGeometry x="623" y="945" width="165" height="90" as="geometry" />
+          <mxGeometry x="647.5" y="945.5" width="165" height="90" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="czQ9E5rsv8D2" id="pPeF-HTOgFZXbcfXd0PG-35">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.005;exitPerimeter=0;entryX=0.5;entryY=-0.004;entryPerimeter=0;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-32" target="pPeF-HTOgFZXbcfXd0PG-34" edge="1">
@@ -287,19 +287,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-7" value="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #3a414a&quot;&gt;Receives the results from all other base brokers&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="615.5" y="1885" width="180" height="93" as="geometry" />
+          <mxGeometry x="640" y="1885" width="180" height="93" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-9" target="q8GRIB_LQ3VLVeIIKjB8-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-9" value="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #3a414a&quot;&gt;Adds the results collected for each transaction&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="625.5" y="2060" width="160" height="83" as="geometry" />
+          <mxGeometry x="650" y="2060" width="160" height="83" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-11" target="q8GRIB_LQ3VLVeIIKjB8-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-11" target="q8GRIB_LQ3VLVeIIKjB8-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-11" value="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #3a414a&quot;&gt;Sends the results to fog nodes connected to base broker&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="625.5" y="2220" width="160" height="83" as="geometry" />
+          <mxGeometry x="650" y="2220" width="160" height="83" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-13" target="q8GRIB_LQ3VLVeIIKjB8-16">
           <mxGeometry relative="1" as="geometry" />
@@ -332,7 +337,17 @@
           <mxGeometry x="425" y="2660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-22" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="361" y="2470" width="27" height="20" as="geometry" />
+          <mxGeometry x="370" y="2467.5" width="27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.869;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-24" target="q8GRIB_LQ3VLVeIIKjB8-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="2910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="2600" />
+              <mxPoint x="580" y="2900" />
+              <mxPoint x="539" y="2900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-24" value="&lt;font color=&quot;#3a414a&quot;&gt;&lt;span style=&quot;font-size: 16.7px&quot;&gt;Reject the transaction&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="2540" width="120" height="60" as="geometry" />
@@ -340,14 +355,98 @@
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-25" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="2465" width="54" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-27" target="q8GRIB_LQ3VLVeIIKjB8-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.464;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-27" target="q8GRIB_LQ3VLVeIIKjB8-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="2900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="2900" />
+              <mxPoint x="483" y="2900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-27" value="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #3a414a&quot;&gt;Add the block to the ledger and save the results to itself&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="405" y="2760" width="160" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.488;exitY=0.523;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-47" target="q8GRIB_LQ3VLVeIIKjB8-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-29" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2900" width="30" height="30" as="geometry" />
+          <mxGeometry x="472.5" y="2950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-32" target="q8GRIB_LQ3VLVeIIKjB8-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-32" value="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #3a414a&quot;&gt;Receive the final results from the base broker&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2220" width="160" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-33" value="&lt;span style=&quot;color: rgb(58 , 65 , 74) ; font-size: 16.7px&quot;&gt;checks the result of each transaction if&amp;nbsp; &amp;gt; 2/3 of fog nodes accepted the transaction&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1353" y="2345" width="194" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-35" target="q8GRIB_LQ3VLVeIIKjB8-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-35" value="&lt;span style=&quot;color: rgb(58 , 65 , 74) ; font-size: 16.7px&quot;&gt;Accepts the transaction&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-36" value="&lt;font color=&quot;#3a414a&quot;&gt;&lt;span style=&quot;font-size: 16.7px&quot;&gt;Reject the transaction&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-38" target="q8GRIB_LQ3VLVeIIKjB8-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-38" value="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; font-size: 0 ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 16.7px ; color: #3a414a&quot;&gt;Add the block to the ledger and save the results to itself&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2755" width="160" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.544;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-57" target="q8GRIB_LQ3VLVeIIKjB8-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-39" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1439.5" y="2950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.131;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405.7199999999998" y="2655.0000000000005" as="targetPoint" />
+            <mxPoint x="1353" y="2427.28" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="2427" />
+              <mxPoint x="1340" y="2637" />
+              <mxPoint x="1406" y="2637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-33" target="q8GRIB_LQ3VLVeIIKjB8-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="2575" as="targetPoint" />
+            <mxPoint x="1697.0000000000005" y="2465" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1560" y="2425" />
+              <mxPoint x="1560" y="2525" />
+              <mxPoint x="1510" y="2525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-44" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1516" y="2460" width="54" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-45" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1343" y="2477.5" width="27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="2920" width="140" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.869;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="q8GRIB_LQ3VLVeIIKjB8-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1507" y="2905" as="targetPoint" />
+            <mxPoint x="1512" y="2595" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1547" y="2595" />
+              <mxPoint x="1547" y="2895" />
+              <mxPoint x="1506" y="2895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8GRIB_LQ3VLVeIIKjB8-57" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="1384.5" y="2915" width="140" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
