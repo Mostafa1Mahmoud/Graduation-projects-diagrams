@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T13:47:53.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Z4yakbcNqty4Y5_7KuoJ" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T15:27:53.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="zfn9LOfiqQuLmAj5g_Iz" version="18.2.0" type="github">
   <diagram id="9EqGme9XQ8Pk4LfK-jfx" name="Page-1">
-    <mxGraphModel dx="1380" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="70MOKPNWR5bHBcbS_oCV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-7" target="pPeF-HTOgFZXbcfXd0PG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRnXH6oCPx6yjBUk1Vtk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPeF-HTOgFZXbcfXd0PG-7" target="pPeF-HTOgFZXbcfXd0PG-12">
+        <mxCell id="TRnXH6oCPx6yjBUk1Vtk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pPeF-HTOgFZXbcfXd0PG-7" target="pPeF-HTOgFZXbcfXd0PG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="CdP9xf9X6418" id="pPeF-HTOgFZXbcfXd0PG-7">
@@ -361,7 +361,7 @@
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-20" target="q8GRIB_LQ3VLVeIIKjB8-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRnXH6oCPx6yjBUk1Vtk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-20" target="q8GRIB_LQ3VLVeIIKjB8-47">
+        <mxCell id="TRnXH6oCPx6yjBUk1Vtk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-20" target="q8GRIB_LQ3VLVeIIKjB8-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-20" value="&lt;span style=&quot;color: rgb(58 , 65 , 74) ; font-size: 16.7px&quot;&gt;Accepts the transaction&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -468,70 +468,85 @@
           </mxCell>
         </UserObject>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="-120" width="520" height="360" as="geometry" />
+          <mxGeometry x="1607" y="-140" width="520" height="360" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-67" value="&lt;b&gt;Smart Contract&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="-110" width="90" height="30" as="geometry" />
+          <mxGeometry x="1837" y="-130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-68" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="-65" as="sourcePoint" />
-            <mxPoint x="2280" y="-65" as="targetPoint" />
+            <mxPoint x="1607" y="-85" as="sourcePoint" />
+            <mxPoint x="2127" y="-85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-69" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1730" y="85" as="sourcePoint" />
-            <mxPoint x="2020" y="-65" as="targetPoint" />
+            <mxPoint x="1577" y="65" as="sourcePoint" />
+            <mxPoint x="1867" y="-85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-70" value="&lt;b&gt;Registration&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="-70" width="90" height="40" as="geometry" />
+          <mxGeometry x="1607" y="-90" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-71" value="&lt;b&gt;Authentication&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2018" y="-70" width="100" height="40" as="geometry" />
+          <mxGeometry x="1865" y="-90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-72" value="&lt;b&gt;1- Check Time Stamp():&lt;/b&gt;&lt;br&gt;Compare between the time the request was created at and the time it was received at and is compared to a time window and return a boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1758" width="260" height="50" as="geometry" />
+          <mxGeometry x="1605" y="-20" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-73" value="&lt;b&gt;2- Hash Match():&lt;/b&gt;&lt;br&gt;- decrypts the content of the request using the private key of the system.&lt;br&gt;- Hash the content of the request.&lt;br&gt;- compare between the received hash and the produced hash.&lt;br&gt;- return a boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="100" width="260" height="90" as="geometry" />
+          <mxGeometry x="1607" y="80" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-74" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="q8GRIB_LQ3VLVeIIKjB8-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="-22" as="sourcePoint" />
-            <mxPoint x="1870" y="30" as="targetPoint" />
+            <mxPoint x="1607" y="-42" as="sourcePoint" />
+            <mxPoint x="1717" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-75" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="83" as="sourcePoint" />
-            <mxPoint x="2020" y="83" as="targetPoint" />
+            <mxPoint x="1607" y="63" as="sourcePoint" />
+            <mxPoint x="1867" y="63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-76" value="&lt;b&gt;1- Check Time Stamp(): &lt;/b&gt;same as registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2018" y="-20" width="262" height="30" as="geometry" />
+          <mxGeometry x="1865" y="-40" width="262" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-77" value="&lt;br&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;2- Hash Match():&amp;nbsp;&lt;/b&gt;same as registration&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2019" y="20" width="260" height="30" as="geometry" />
+          <mxGeometry x="1866" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-78" value="&lt;b&gt;3- Certification Matching():&lt;/b&gt;&lt;br&gt;- Get the certificate related with the real id.&lt;br&gt;- drive a certificate from the received signature.&lt;br&gt;- compare the saved certificate and received certificate.&lt;br&gt;- return a boolean.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2020" y="80" width="260" height="80" as="geometry" />
+          <mxGeometry x="1867" y="60" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2020" y="20" as="sourcePoint" />
-            <mxPoint x="2280" y="20" as="targetPoint" />
+            <mxPoint x="1867" as="sourcePoint" />
+            <mxPoint x="2127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8GRIB_LQ3VLVeIIKjB8-80" value="" style="endArrow=none;html=1;rounded=0;entryX=1.001;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="q8GRIB_LQ3VLVeIIKjB8-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2020" y="70" as="sourcePoint" />
-            <mxPoint x="2200" y="40" as="targetPoint" />
+            <mxPoint x="1867" y="50" as="sourcePoint" />
+            <mxPoint x="2047" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="70MOKPNWR5bHBcbS_oCV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q8GRIB_LQ3VLVeIIKjB8-7" target="q8GRIB_LQ3VLVeIIKjB8-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o1kDmngT1EuIltLsT5cY-1" value="&#xa;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;3- Certification Matching():&lt;/b&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- Get the certificate related with the real id.&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- drive a certificate from the received signature.&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- compare the saved certificate and received certificate.&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- return a boolean.&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2127" y="-87" width="293" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="o1kDmngT1EuIltLsT5cY-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1.01;exitY=0.155;exitDx=0;exitDy=0;entryX=0.003;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="o1kDmngT1EuIltLsT5cY-1" target="o1kDmngT1EuIltLsT5cY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="40" as="sourcePoint" />
+            <mxPoint x="2150" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2270" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1kDmngT1EuIltLsT5cY-7" value="&lt;b&gt;Certification Update&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="-80" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
